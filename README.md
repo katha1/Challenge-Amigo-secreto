@@ -20,6 +20,7 @@ No es necesario instalar dependencias, ya que es un proyecto basado en JavaScrip
 ## 🛠 Cómo ejecutar el proyecto
 
 Simplemente entra al siguiente enlace:
+https://katha1.github.io/Challenge-Amigo-secreto/
 
 ---
 
